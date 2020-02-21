@@ -1,0 +1,9 @@
+F:\Projects\WinFormsTask\WinFormsTask\bin\Debug\WinFormsTask.exe.config
+F:\Projects\WinFormsTask\WinFormsTask\bin\Debug\WinFormsTask.exe
+F:\Projects\WinFormsTask\WinFormsTask\bin\Debug\WinFormsTask.pdb
+F:\Projects\WinFormsTask\WinFormsTask\obj\Debug\WinFormsTask.csprojAssemblyReference.cache
+F:\Projects\WinFormsTask\WinFormsTask\obj\Debug\WinFormsTask.Form1.resources
+F:\Projects\WinFormsTask\WinFormsTask\obj\Debug\WinFormsTask.Properties.Resources.resources
+F:\Projects\WinFormsTask\WinFormsTask\obj\Debug\WinFormsTask.csproj.GenerateResource.cache
+F:\Projects\WinFormsTask\WinFormsTask\obj\Debug\WinFormsTask.exe
+F:\Projects\WinFormsTask\WinFormsTask\obj\Debug\WinFormsTask.pdb
